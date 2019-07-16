@@ -25,6 +25,10 @@ api.Metric.send([{
     'points': 15
 },
 {
+    'metric': 'minecraft.server.entity.count',
+    'points': 15
+},
+{
     'metric': 'minecraft.server.playercount',
     'points': 16
 }])
